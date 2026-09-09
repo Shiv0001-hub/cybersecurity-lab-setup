@@ -22,16 +22,12 @@ I completed the setup on the following laptop:
 
 | Component | Details |
 |---|---|
-| Device name | Pashupatastra |
 | Hardware model | HP Victus by HP Gaming Laptop 15-fa1xxx |
 | Host operating system | Fedora Linux 44 (Workstation Edition) |
 | Processor | 13th Gen Intel Core i5-13420H |
 | Memory | 16.0 GiB (16 GB) |
 | Storage | 512.1 GB SSD |
 | Graphics | NVIDIA GeForce RTX 3050 6GB Laptop GPU |
-| Desktop and display | GNOME 50 on Wayland |
-
-The specifications above were taken from Fedora's **Settings → System → About** page. The disk is shown by Fedora as 512.1 GB.
 
 ## Lab Requirements and Configuration
 
