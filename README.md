@@ -13,10 +13,8 @@ The purpose of the lab is to provide a controlled environment for learning and p
 | Project | Cybersecurity and Pentesting Lab Setup |
 | Author | Shiv Das |
 | Batch | B083 |
-| GitHub repository | [cybersecurity-lab-setup](https://github.com/Shiv0001-hub/cybersecurity-lab-setup) |
 | LinkedIn | [Shiv Das](https://www.linkedin.com/in/shiv-das-1071b2347) |
 
-> Check the batch number before submitting. This README uses **B083**, as shown in my current project document.
 
 ## Host Machine Specifications
 
@@ -115,10 +113,6 @@ Address: 10.0.0.2/24
 Gateway: 10.0.0.1
 DNS configured for the connection: 8.8.8.8
 ```
-
-![Kali static IP configuration](Screenshots/Screenshot%20From%202026-09-09%2017-42-01.png)
-
-*Figure 7: Static IPv4 address and network settings in Kali Linux.*
 
 ### Step 8: Configure the shared folder
 
@@ -233,8 +227,7 @@ This laboratory is for education and authorized ethical hacking practice only. I
 
 **Shiv Das**  
 Cybersecurity student, Batch B083  
-[LinkedIn profile](https://www.linkedin.com/in/shiv-das-1071b2347)  
-[GitHub profile](https://github.com/Shiv0001-hub)
+[LinkedIn profile](https://www.linkedin.com/in/shiv-das-1071b2347) 
 
 ---
 
