@@ -11,9 +11,7 @@ Welcome to my cybersecurity lab setup documentation! This repository covers the 
 | **Program Name** | Cybersecurity at Networkwalks |
 | **Week / Module** | Week 01 - Project Module 01 (WK1-PM1) |
 | **Project Title** | Cybersecurity & Pentesting Lab Setup |
-| **Author** | **Shiv Das** (Batch B082) |
-| **Repository** | [GitHub - Shiv0001-hub/cybersecurity-lab-setup](https://github.com/Shiv0001-hub/cybersecurity-lab-setup) |
-| **LinkedIn** | [Shiv Das on LinkedIn](https://www.linkedin.com/in/shiv-das-1071b2347) |
+| **Author** | **Shiv Das** (Batch B083) |
 
 ---
 
@@ -221,7 +219,7 @@ I learned that documenting commands, system configurations, visual screenshots, 
 ## 👤 Author
 
 **Shiv Das**  
-*Cybersecurity Enthusiast & Practitioner (Batch B082)*  
+*Cybersecurity Enthusiast & Practitioner (Batch B083)*  
 * **LinkedIn:** [linkedin.com/in/shiv-das-1071b2347](https://www.linkedin.com/in/shiv-das-1071b2347)  
 * **GitHub:** [github.com/Shiv0001-hub](https://github.com/Shiv0001-hub)
 
