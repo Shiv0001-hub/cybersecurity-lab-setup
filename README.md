@@ -100,7 +100,7 @@ Under **General → Advanced**, I enabled both **Shared Clipboard** and **Drag'n
 ### Step 7: Setting Static IP & NetworkManager Configuration
 Inside Kali Linux, I configured the wired connection with a static IP of `10.0.0.2`, netmask `24` (`255.255.255.0`), gateway `10.0.0.1`, and DNS `8.8.8.8`.
 
-![Kali Static IP Configuration](Screenshots/Screenshot_2026-09-09_17-42-01.png)
+![Kali Static IP Configuration]
 *Figure 7: Static IP address and DNS configuration inside Kali Linux.*
 
 ---
@@ -220,8 +220,7 @@ I learned that documenting commands, system configurations, visual screenshots, 
 
 **Shiv Das**  
 *Cybersecurity Enthusiast & Practitioner (Batch B083)*  
-* **LinkedIn:** [linkedin.com/in/shiv-das-1071b2347](https://www.linkedin.com/in/shiv-das-1071b2347)  
-* **GitHub:** [github.com/Shiv0001-hub](https://github.com/Shiv0001-hub)
+* **LinkedIn:** [linkedin.com/in/shiv-das-1071b2347](https://www.linkedin.com/in/shiv-das-1071b2347)
 
 ---
 *Created as part of NetworkWalks Cybersecurity Training | Module WK1-PM1*
