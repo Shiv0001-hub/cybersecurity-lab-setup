@@ -49,7 +49,7 @@ The main objective of this lab is to create a segmented, isolated testing subnet
 
 ## 🛠️ Step-by-Step Lab Setup & Screenshots
 
-### Step 1: Host Preparation & Extracting Kali Linux
+### Step 1: Installing 7-Zip & Extracting Kali Linux
 On Fedora Linux, I first made sure virtualization was active and installed `p7zip` to handle compressed archives. Then I downloaded the official Kali Linux VirtualBox image and extracted the `.7z` file using terminal commands.
 
 ![Installing 7zip on Fedora](Screenshots/Screenshot%20From%202026-09-09%2016-25-24.png)
